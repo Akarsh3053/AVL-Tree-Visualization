@@ -5,6 +5,7 @@
 
 # Description
 A basic Visualization tool for Operations in AVL tree based on javascript to easily understand the operations on AVL-Tree Data Structure.
+<img src="https://github.com/Akarsh3053/AVL-Tree-Visualization/blob/main/demo.gif">
 
 # Features
 - Simple to Use
@@ -12,13 +13,12 @@ A basic Visualization tool for Operations in AVL tree based on javascript to eas
 - Control Animation Speeds
 - Describes each animated operation
 - No Framework or Dependencies
-# Screenshots
- <img src="https://github.com/Akarsh3053/AVL-Tree-Visualization/blob/main/Screenshot.png"> <img src="https://github.com/Akarsh3053/AVL-Tree-Visualization/blob/main/demo.gif">
+
 # Tech Used
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
       
-# Add More Details:
-Anything else that you want to add for users? You can write it here in markdown and see preview in real time. You can add anything that you want, for example
+# Screenshot
+ <img src="https://github.com/Akarsh3053/AVL-Tree-Visualization/blob/main/Screenshot.png"> 
 
 ### You can add How to Setup:
 - Step 1: Clone the rpo to your system
